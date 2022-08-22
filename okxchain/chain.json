@@ -1,6 +1,6 @@
 {
     "$schema": "../chain.schema.json",
-    "chain_name": "OKX Chain",
+    "chain_name": "okxchain",
     "status": "live",
     "network_type": "mainnet",
     "pretty_name": "OKC",
