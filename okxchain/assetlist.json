@@ -14,7 +14,7 @@
           "exponent": 18
         }
       ],
-      "base": "10000000000wei",
+      "base": "wei",
       "name": "OKXChain",
       "display": "OKT",
       "symbol": "OKT",
